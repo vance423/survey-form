@@ -1,0 +1,110 @@
+body{
+    background-image: url(https://undesigns.net/wp-content/uploads/2018/02/blue-violet-motion-background-free-download-undesigns.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-weight: 380;
+  }
+  
+  
+  .container {
+    width: 100%;
+    margin: 0 auto;
+  }
+  
+  .text-center {
+    text-align: center;
+    padding: 0;
+    margin: 0 0 25 0;
+    color: #f0eff1;
+  }
+  
+  .header {
+    margin-top: 50;
+  }
+  
+  #description {
+    font-style: italic;
+    font-weight: 220;
+    margin-bottom: 10px;
+  }
+  
+  #survey-form {
+    max-width: 600px;
+    background-color: #9f94a8ee;
+    margin: auto;
+    padding: 15px 30px;
+    border-radius: 5px;
+    margin-bottom: 50px;
+    position: relative;
+  }
+  
+  .form-div {
+    padding-top: 20px;
+  }
+  
+  .input-lable {
+    width: 100%;
+    padding: 10px;
+    margin: 8 0 0 0;
+    display: inline-block;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+  
+  
+  .textarea {
+    width: 100%;
+    height: 120px;
+    margin-top: 6px;
+  }
+  
+  body {
+    font-size: 1.1rem;
+    font-weight: 500;
+    color: var(--color-white);
+    margin: 0;
+  }
+  
+  #submit {
+    width: 100%;
+    background-color: rgb(12, 14, 11);
+    color: rgb(128, 122, 122);
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  #submit:hover {
+    background-color: rgb(130, 129, 143);
+  }
+  
+  h1 {
+    font-weight: 400;
+    line-height: 1.5;
+  }
+  
+  p {
+    font-size: 1.5rem;
+    font-weight: 400;
+    margin: 0;
+  }
+  
+  
+  #span-p {
+    font-size: 15px;
+  }
+  
+  label {
+    align-items: center;
+    font-size: 20px;
+  }
+  
+  .input-radio, .checkbox {
+    display: inline-block;
+    margin-right: 0.625rem;
+    min-height: 1.25rem;
+    min-width: 1.25rem;
+  }
